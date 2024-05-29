@@ -1,0 +1,19 @@
+/*style.css */
+/* reset some basic elements */
+body, h1, nav , li , p {
+margin: 0;
+padding: 0;
+list-style: none;
+
+
+}
+/* logo and banner styles */
+.logo img
+width: 150px;/* adjust siza as needed*/
+height:auto
+}
+
+
+
+
+
